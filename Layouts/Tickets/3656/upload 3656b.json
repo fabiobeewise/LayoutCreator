@@ -1,0 +1,385 @@
+[
+ {
+  "action": "updateFrameLayout",
+  "from": 193,
+  "frames": [
+   {
+    "id": "3656b-A1-DP",
+    "frame_type": "partition",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 239.48,
+      "y": 24.896,
+      "z": 241
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-FD",
+    "frame_type": "feeder",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 275.48,
+      "y": 22.959,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-01",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 311.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-02",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 347.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-03",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 383.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-04",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 419.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-05",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 455.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-06",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 491.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-07",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 527.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-08",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 563.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-09",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 599.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-10",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 635.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-CF-11",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 671.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A1-SP",
+    "frame_type": "static_partition",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 743.48,
+      "y": 23.128,
+      "z": 253
+     }
+    },
+    "direction": "Up"
+   },
+   {
+    "id": "3656b-A2-DP",
+    "frame_type": "partition",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 851.48,
+      "y": 24.896,
+      "z": 241
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-FD",
+    "frame_type": "feeder",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 923.48,
+      "y": 22.959,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-01",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 959.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-02",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 995.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-03",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1031.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-04",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1067.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-05",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1103.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-06",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1139.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-07",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1175.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-08",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1211.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-09",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1247.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-10",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1283.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-11",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1319.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-CF-12",
+    "frame_type": "comb_frame",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1355.48,
+      "y": 21.957,
+      "z": 253
+     }
+    },
+    "direction": "Down"
+   },
+   {
+    "id": "3656b-A2-SP",
+    "frame_type": "static_partition",
+    "place": {
+     "station": "a",
+     "position": {
+      "x": 1391.48,
+      "y": 23.128,
+      "z": 253
+     }
+    },
+    "direction": "Up"
+   }
+  ]
+ }
+]

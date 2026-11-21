@@ -1,0 +1,957 @@
+[
+  {
+    "action": "updateFrameLayout",
+    "from": "193",
+    "frames": [
+      {
+        "id": "10109-DP-A01",
+        "frame_type": "partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 497.010097228213,
+            "y": 24.896238334508894,
+            "z": 241
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-A01",
+        "frame_type": "feeder",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 539.821250699415,
+            "y": 22.95915162086422,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-A02",
+        "frame_type": "feeder",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 568.1221553272875,
+            "y": 23.474397356205927,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYHCA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 603.3343821664134,
+            "y": 21.957094889885084,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHANNHHC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 639.6641484961549,
+            "y": 18.04256314474395,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHANNHNA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 680.4848692366421,
+            "y": 23.158645935718965,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHANNHHA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 715.2594679718762,
+            "y": 23.052558685743975,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYCXY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 752.1806002458665,
+            "y": 25.293710634777668,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCXAYCN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 789.7995024757012,
+            "y": 25.66938672379389,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYCXH",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 828.3464161893155,
+            "y": 24.137325639932456,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYCXC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 864.1258535132619,
+            "y": 22.393136511353447,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYHAX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 901.6871842669258,
+            "y": 22.359276235883513,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYCXA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 950.7586362436255,
+            "y": 22.633623292679786,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },      
+      {
+        "id": "10109-SP-A08",
+        "frame_type": "static_partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 990.512199833027,
+            "y": 23.12764602427707,
+            "z": 253
+          }
+        },
+        "direction": "Up"
+      },
+      {
+        "id": "10109-DP-A02",
+        "frame_type": "partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1757.9268699377785,
+            "y": 24.503315127087248,
+            "z": 241
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-A03",
+        "frame_type": "feeder",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1792.1377094893267,
+            "y": 23.166496810269734,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-A04",
+        "frame_type": "feeder",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1831.8771667565784,
+            "y": 21.995328484262103,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACYYYCYX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1873.8134079789568,
+            "y": 22.767253134713656,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAACY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1912.431218860931,
+            "y": 24.440349268637647,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAACA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1951.6124499442428,
+            "y": 25.259228951340404,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYHCN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 1990.9427705138623,
+            "y": 23.370653736174717,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHAXCXCN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2045.5680761369144,
+            "y": 23.75399011093012,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXXY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2102.607074373904,
+            "y": 25.275762175790376,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCHYHCY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2142.475393187458,
+            "y": 24.64763082298964,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXNCX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2181.90450054665,
+            "y": 24.095651632210675,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-SP-A02",
+        "frame_type": "static_partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2202.5604363128127,
+            "y": 21.206291739030476,
+            "z": 253
+          }
+        },
+        "direction": "Up"
+      },
+      {
+        "id": "10109-DP-A03",
+        "frame_type": "partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2264.7942938780066,
+            "y": 23.64414985626898,
+            "z": 241
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-A05",
+        "frame_type": "feeder",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2298.7790782676852,
+            "y": 24.40527350577446,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-A06",
+        "frame_type": "feeder",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2334.6523778128685,
+            "y": 23.200759714165727,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCXAYAY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2372.627446308725,
+            "y": 24.382398676508345,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCXAYAN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2408.0914949652984,
+            "y": 22.991990288743082,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCXAYCA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2446.120655305381,
+            "y": 22.613656766438723,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCXAYCH",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2481.39841025139,
+            "y": 21.7460197124054,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXXX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2519.5528203901818,
+            "y": 22.60154197493769,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCXAYHA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2555.7044753436844,
+            "y": 21.164292060264486,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAAAH",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2594.553236099954,
+            "y": 22.76594275478162,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAAAY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2631.9010761513155,
+            "y": 21.65786227401479,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAAHA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2671.499541661613,
+            "y": 22.168189343273852,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAAHC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2709.278222813763,
+            "y": 22.938851445890535,
+            "z": 253
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-SP-A03",
+        "frame_type": "static_partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2725.512199833027,
+            "y": 23.12764602427707,
+            "z": 253
+          }
+        },
+        "direction": "Up"
+      },
+      {
+        "id": "10109-DP-B01",
+        "frame_type": "partition",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 417.4698979387176,
+            "y": 539.0872113975521,
+            "z": 244
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-B01",
+        "frame_type": "feeder",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 452.15695636354315,
+            "y": 538.7648577568515,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-B02",
+        "frame_type": "feeder",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 489.2324233725776,
+            "y": 538.0361151427501,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXNA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 527.2046461966403,
+            "y": 537.5439566305615,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXXN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 568.3469694857672,
+            "y": 537.1822732801343,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCCAAYX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 599.6475256244375,
+            "y": 537.5976554253218,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXNCC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 636.7156233545793,
+            "y": 538.2045460690465,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXNG",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 673.8117244685712,
+            "y": 538.341204925466,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXNCA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 710.254406526726,
+            "y": 539.1337709885415,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXNCH",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 747.195133679923,
+            "y": 540.4386663795327,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHAXCXCH",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 784.0179895741992,
+            "y": 539.9632222867724,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXXA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 823.0929728037953,
+            "y": 539.0263866284706,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHAXCXCX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 860.2561480090824,
+            "y": 538.0372189748858,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXNCN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 897.0164940776411,
+            "y": 539.0011306570732,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACHXXXXC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 933.6786589255347,
+            "y": 540.4899998935764,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-SP-B01",
+        "frame_type": "static_partition",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 951.1179497967391,
+            "y": 540.8791370802668,
+            "z": 256
+          }
+        },
+        "direction": "Up"
+      },
+      {
+        "id": "10109-DP-B02",
+        "frame_type": "partition",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 1610.1085085183076,
+            "y": 540.5868684877134,
+            "z": 244
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-SP-B02",
+        "frame_type": "static_partition",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2035.8335649535584,
+            "y": 542.4908045948232,
+            "z": 256
+          }
+        },
+        "direction": "Up"
+      },
+      {
+        "id": "10109-DP-B03",
+        "frame_type": "partition",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2225.318335631114,
+            "y": 544.5397081573974,
+            "z": 244
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-B03",
+        "frame_type": "feeder",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2262.4514947329926,
+            "y": 538.6308079417813,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-FD-B04",
+        "frame_type": "feeder",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2298.142880140489,
+            "y": 538.7275222233275,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCAXCXC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2335.521880495715,
+            "y": 538.4507569320417,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACANHHCY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2371.214935368847,
+            "y": 538.0049538729929,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYXH",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2408.0378279839065,
+            "y": 538.766942198796,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYNN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2445.551084263442,
+            "y": 540.4711941326602,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYHA",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2482.1737332025755,
+            "y": 540.5207944475544,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYHC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2515.6769935300217,
+            "y": 541.2949307004433,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYXX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2553.4271325898585,
+            "y": 539.7452199965384,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYYC",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2589.965571947129,
+            "y": 538.8155300392064,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYNX",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2626.7498796888995,
+            "y": 540.3789638042836,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-ACCAXCXN",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2663.3881672778525,
+            "y": 540.266497168032,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-AHCCAYNY",
+        "frame_type": "comb_frame",
+        "place": {
+          "station": "b",
+          "position": {
+            "x": 2700.293252651221,
+            "y": 539.9971834218643,
+            "z": 256
+          }
+        },
+        "direction": "Down"
+      },
+      {
+        "id": "10109-SP-A09",
+        "frame_type": "static_partition",
+        "place": {
+          "station": "a",
+          "position": {
+            "x": 2765.512199833027,
+            "y": 23.12764602427707,
+            "z": 253
+          }
+        },
+        "direction": "Up"
+      }
+    ]
+  }
+]

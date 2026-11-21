@@ -1,0 +1,36 @@
+2026-07-08 18:26:24.028 info 193 HIVE_EVALUATION BHOME 193 GET_HIVES_WITH_EVALUATION: Started with trigger: balancing 
+
+2026-07-08 18:26:24.027 info 193 Validated MARKED_HIVES BHOME 193 hives: [{"from":221.18,"to":750.48,"station":"a","evaluation":{"queen":{"exist":true,"timestamp":1783526219589},"feeders":{"amount":1,"timestamp":1783526219589,"lastFeedDate":0},"beesFrames":{"to":617.48,"from":401.48,"amount":6,"timestamp":1783526219589},"broodFrames":{"to":617.48,"from":401.48,"amount":6,"timestamp":1783526219589},"honeyFrames":{"amount":6,"timestamp":1783526219589},"totalFrames":{"amount":12,"timestamp":1783526219589}},"hiveId":"A1","hiveName":"4","isLocked":false,"isOpen":false},{"from":869.18,"to":1398.48,"station":"a","evaluation":{"queen":{"exist":true,"timestamp":1783526219592},"feeders":{"amount":1,"timestamp":1783526219592,"lastFeedDate":0},"beesFrames":{"to":1265.48,"from":977.48,"amount":8,"timestamp":1783526219592},"broodFrames":{"to":1265.48,"from":1049.48,"amount":6,"timestamp":1783526219592},"honeyFrames":{"amount":4,"timestamp":1783526219592},"totalFrames":{"amount":12,"timestamp":1783526219592}},"hiveId":"A2","hiveName":"3","isLocked":false,"isOpen":false},{"from":1517.18,"to":2046.48,"station":"a","evaluation":{"queen":{"exist":true,"timestamp":1783526219597},"feeders":{"amount":1,"timestamp":1783526219597,"lastFeedDate":0},"beesFrames":{"to":1769.48,"from":1625.48,"amount":4,"timestamp":1783526219597},"broodFrames":{"to":1769.48,"from":1625.48,"amount":4,"timestamp":1783526219597},"honeyFrames":{"amount":2,"timestamp":1783526219597},"totalFrames":{"amount":12,"timestamp":1783526219597}},"hiveId":"A3","hiveName":"2","isLocked":false,"isOpen":false},{"from":2145.78,"to":2675.08,"station":"a","evaluation":{"queen":{"exist":null,"timestamp":1783526219599},"feeders":{"amount":1,"timestamp":1783526219599,"lastFeedDate":0},"beesFrames":{"amount":0,"timestamp":1783526219599},"broodFrames":{"amount":0,"timestamp":1783526219599},"honeyFrames":{"amount":4,"timestamp":1783526219599},"totalFrames":{"amount":12,"timestamp":1783526219599}},"hiveId":"A4","hiveName":"1","isLocked":false,"isOpen":false},{"from":229.5,"to":758.8,"station":"b","evaluation":{"queen":{"exist":true,"timestamp":1783526219602},"feeders":{"amount":1,"timestamp":1783526219601,"lastFeedDate":0},"beesFrames":{"to":481.8,"from":373.8,"amount":3,"timestamp":1783526219601},"broodFrames":{"to":481.8,"from":337.8,"amount":4,"timestamp":1783526219601},"honeyFrames":{"amount":1,"timestamp":1783526219602},"totalFrames":{"amount":12,"timestamp":1783526369437}},"hiveId":"B1","hiveName":"5","isLocked":false,"isOpen":false},{"from":877.5,"to":1406.8,"station":"b","evaluation":{"queen":{"exist":true,"timestamp":1783526219604},"feeders":{"amount":1,"timestamp":1783526219604,"lastFeedDate":0},"beesFrames":{"to":1309.8,"from":985.8,"amount":9,"timestamp":1783526219604},"broodFrames":{"to":1309.8,"from":1021.8,"amount":8,"timestamp":1783526219604},"honeyFrames":{"amount":2,"timestamp":1783526219604},"totalFrames":{"amount":12,"timestamp":1783526369440}},"hiveId":"B2","hiveName":"6","isLocked":false,"isOpen":false},{"from":1525.5,"to":2054.8,"station":"b","evaluation":{"queen":{"exist":true,"timestamp":1783526219608},"feeders":{"amount":1,"timestamp":1783526219607,"lastFeedDate":0},"beesFrames":{"to":1777.8,"from":1705.8,"amount":2,"timestamp":1783526219607},"broodFrames":{"to":1777.8,"from":1705.8,"amount":2,"timestamp":1783526219607},"honeyFrames":{"amount":0,"timestamp":1783526219608},"totalFrames":{"amount":12,"timestamp":1783526219607}},"hiveId":"B3","hiveName":"7","isLocked":false,"isOpen":false},{"from":2154.1,"to":2683.4,"station":"b","evaluation":{"queen":{"exist":false,"timestamp":1783526219610},"feeders":{"amount":1,"timestamp":1783526219610,"lastFeedDate":0},"beesFrames":{"to":2370.4,"from":2334.4,"amount":1,"timestamp":1783526219610},"broodFrames":{"to":2370.4,"from":2334.4,"amount":1,"timestamp":1783526219610},"honeyFrames":{"amount":0,"timestamp":1783526219610},"totalFrames":{"amount":12,"timestamp":1783526219609}},"hiveId":"B4","hiveName":"8","isLocked":false,"isOpen":false}] 
+
+2026-07-08 18:26:23.737 info 193 AUTO_BEES_BALANCING BHOME 193: Executing moveFrames with 13 sequences and 120 layout changes 
+
+2026-07-08 18:26:23.735 info 193 AUTO_BEES_BALANCING BHOME 193: Auto bees balancing criteria met - Weak Hive: B1, Strong Hive: B2, VIF: injected-frame-193-comb-frame-71, LIF: injected-frame-193-comb-frame-57, VIF destination (Station b, X: 445.80), LIF destination (Station b, X: 985.80). Generating balance command 
+
+2026-07-08 18:26:23.735 info 193 AUTO_BEES_BALANCING BHOME 193: Generated balance command: "balanceHives" with 13 sequences 
+
+2026-07-08 18:26:23.734 info 193 AUTO_BEES_BALANCING BHOME 193: LIF_NEW_PLACE (Strong Hive B2): Determined LIF new place for strong hive B2: station b, X: 985.80. Based on comb frame injected-frame-193-comb-frame-56 (at X: 1003.80, closest to start of bees area [985.80-1309.80]) minus half comb width (18.00) 
+
+2026-07-08 18:26:23.734 info 193 AUTO_BEES_BALANCING BHOME 193: LIF_NEW_PLACE (Strong Hive B2): Determined LIF new place: Station b, X: 985.80. Reference Frame: injected-frame-193-comb-frame-56 
+
+2026-07-08 18:26:23.733 info 193 AUTO_BEES_BALANCING BHOME 193: LIF_SEARCH (Weak Hive B1): Selected LIF for weak Hive B1: injected-frame-193-comb-frame-57. Last scan: 1783511439867 
+
+2026-07-08 18:26:23.733 info 193 AUTO_BEES_BALANCING BHOME 193: LIF_SEARCH (Weak Hive B1): Selected LIF: injected-frame-193-comb-frame-57 (first comb frame to the right of partition injected-frame-193-partition-6). Position X: 319.80, partition X: 247.80, last scan: 1783511439867 
+
+2026-07-08 18:26:23.733 info 193 AUTO_BEES_BALANCING BHOME 193: VIF_NEW_PLACE (Weak Hive B1): Determined VIF new place for weak hive B1: station b, X: 445.80. Based on closest comb frame injected-frame-193-comb-frame-72 (at X: 427.80 within bees area [373.80-481.80], center X: 427.80) + half comb width (18.00) 
+
+2026-07-08 18:26:23.733 info 193 AUTO_BEES_BALANCING BHOME 193: VIF_NEW_PLACE (Weak Hive B1): Determined VIF new place: Station b, X: 445.80. Reference Frame: injected-frame-193-comb-frame-72 
+
+2026-07-08 18:26:23.732 info 193 AUTO_BEES_BALANCING BHOME 193: LIF_SEARCH (Weak Hive B1): Evaluating for LIF 
+
+2026-07-08 18:26:23.732 info 193 AUTO_BEES_BALANCING BHOME 193: Selected strong Hive B2 with 9 bee frames. VIF: injected-frame-193-comb-frame-71 
+
+2026-07-08 18:26:23.732 info 193 AUTO_BEES_BALANCING BHOME 193: VIF_SEARCH (Strong Hive B2): Evaluating for VIF 
+
+2026-07-08 18:26:23.732 info 193 AUTO_BEES_BALANCING BHOME 193: VIF_SEARCH (Strong Hive B2): Found 2 VIF candidates. Selected VIF: injected-frame-193-comb-frame-71, position X: 1147.80, capped brood cells: 1310 
+
+2026-07-08 18:26:23.732 info 193 AUTO_BEES_BALANCING BHOME 193: VIF_SEARCH (Strong Hive B2): VIF injected-frame-193-comb-frame-71 selected 
+
+2026-07-08 18:26:23.729 info 193 AUTO_BEES_BALANCING BHOME 193: Selected weak Hive B1 with 3 bee frames 
+
+2026-07-08 18:26:23.728 info 193 AUTO_BEES_BALANCING BHOME 193: Found 0 recently balanced hives 
+

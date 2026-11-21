@@ -1,0 +1,297 @@
+[
+    {
+        "cycleStart": "2026-06-10 09:00:00.000",
+        "cycleEnd": "2026-06-15 09:00:00.000",
+        "hives": [
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "04c5cab8-138f-4fb1-b126-3505e5acfc04",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 3,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "04d8d005-d4b9-470a-a47c-7c8b9d2b34ad",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 4,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "10931b1e-a28c-47c9-b965-b0631065338f",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 5,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "174acdf8-6a5a-492f-af5a-a32705ebed62",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 6,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "1d11e109-1a47-4d77-a6c4-da1a9c0de654",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 7,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "1f47ece3-7cd2-454f-94c7-6cd008ed6274",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 8,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "25bf257f-8016-4e5e-bcc2-331ef0bcc528",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 9,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "26a9acb3-15c2-4360-a123-fc8f2f04fe55",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 10,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "26c952a1-c5e6-40d2-872d-d8bba23c4d5f",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 11,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "39a15349-2c02-42d5-9009-c75e18bf7690",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 12,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "41993f72-9ec7-4916-bdcb-da23dbd2cd89",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 13,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "454ad3e2-1693-42e8-a238-7754b3bb7bec",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 2,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "4a839e90-2890-4fb6-a132-2fed2ec413fa",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 3,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "52278155-7dbf-474f-b7a1-02f95631b039",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 4,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "5b299878-1bf6-4776-9481-8bd02ab1e3a4",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 5,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "6093aa19-4e48-4788-ba2a-b49f76d6e3d4",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 6,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "7ed8eb6e-e3e8-4cd1-9357-c10fa1998beb",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 7,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "9d2acc05-cf87-4fc6-b750-6b3cb6eb0988",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 8,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "a05168f2-45d5-44d6-98aa-d5b36f900a41",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 9,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "aa057fa9-1097-4938-8b71-29f20412057d",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 10,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "b8f8fbab-b453-47bb-b067-acb371ddcdfd",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 11,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "c2e9e1a2-e667-4189-a6c4-d26a36cf0a62",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 12,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "c3b2bea9-176e-4148-a640-0859ebc4ca35",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 13,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "c6c84894-38da-4099-8f24-bd9aa14a1f26",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 2,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "d2b45581-6ffa-4bd1-82c9-d08f3f274e5f",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 3,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "d6d9cc95-567b-4f17-be92-a6b70a0a0bc1",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 4,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "d7eb1598-0d52-4aa6-bf35-6f334f7ec6c8",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 5,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "de75e5d4-1441-4ac1-bf4c-046178d3387a",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 6,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "ed35cebe-145c-4953-85b3-9f32618f4bcc",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 7,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "fc3863e8-aef7-4dba-bbb2-36bf912177d0",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 8,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "fd6d01e9-75a0-4c68-bae1-ff03ba788f90",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 9,
+                "evaluationType": "AUTO_SCAN"
+            },
+            {
+                "dropId": "7a1043d6-8613-4e33-9a2c-001c1fb972b3",
+                "hiveId": "ff063d47-4fcc-44c8-ad82-60048dfa2375",
+                "bhomeId": 204,
+                "createdAt": "2026-06-12T09:00:00+00:00",
+                "dockingStationId": 100,
+                "actualBeeFramesScan": 10,
+                "evaluationType": "AUTO_SCAN"
+            }
+        ],
+        "evaluationType": "AUTO_SCAN"
+    }
+]

@@ -1,0 +1,1989 @@
+{
+    "frames": [
+        {
+            "slot": 0,
+            "rfid": "194-bh-1-static-partition-1",
+            "type": "static_partition",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 743.48
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 0,
+            "status": "idle",
+            "id": "afb6274d-2dee-4a8e-9dcf-73ad0629cc40",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 60.75,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_side_b": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 56.11,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 1,
+            "rfid": "194-bh-1-static-partition-2",
+            "type": "static_partition",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1391.48
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 1,
+            "status": "idle",
+            "id": "2463b5cc-130b-4b8e-a705-81c6101a7135",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 52.8,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_side_b": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 47.52,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 2,
+            "rfid": "3656c2-A3-DP",
+            "type": "partition",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1535.48
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 2,
+            "status": "idle",
+            "id": "66f9fe25-84b7-49a3-ab57-ad7b798c7a94",
+            "last_updated": "2026-08-25T09:17:40.190Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 3,
+            "rfid": "3656c2-A3-FD",
+            "type": "feeder",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1571.48
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 3,
+            "status": "idle",
+            "id": "7e58f4c1-6551-4b58-9828-d857778c809a",
+            "last_updated": "2026-08-25T09:17:40.190Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 4,
+            "rfid": "194-bh-1-comb-frame-25",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1607.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 4,
+            "status": "idle",
+            "id": "b78438cc-04ed-46f5-9224-9af0e8b7d511",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240626_170135-a-2630-front-6bf15de3-2111-4da2-815e-2f6142a6988a.jpg",
+                    "beesPercent": 39.5,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-15-12-39-a-2630.39-front-6bf15de3-2111-4da2-815e-2f6142a6988a.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 986,
+                "cell-worker-honey": 165,
+                "cell-worker-pollen": 67,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 223,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240626_170135-a-2630-back-6bf15de3-2111-4da2-815e-2f6142a6988a.jpg",
+                    "beesPercent": 57.9,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-15-12-39-a-2630.39-back-6bf15de3-2111-4da2-815e-2f6142a6988a.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 653,
+                "cell-worker-honey": 220,
+                "cell-worker-pollen": 425,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 149,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 5,
+            "rfid": "194-bh-1-comb-frame-23",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1643.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 5,
+            "status": "idle",
+            "id": "6722ea32-5bab-426c-b25d-3a302eb5e25b",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240626_171325-a-2667-front-6e281d7d-d02d-4465-8f20-23011046de67.jpg",
+                    "beesPercent": 41.19,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-15-12-51-a-2667.57-front-6e281d7d-d02d-4465-8f20-23011046de67.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 1015,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 3,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240626_171325-a-2667-back-6e281d7d-d02d-4465-8f20-23011046de67.jpg",
+                    "beesPercent": 64.6,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-15-12-51-a-2667.57-back-6e281d7d-d02d-4465-8f20-23011046de67.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 827,
+                "cell-worker-honey": 113,
+                "cell-worker-pollen": 5,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 661,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 6,
+            "rfid": "194-bh-1-comb-frame-24",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1679.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 6,
+            "status": "idle",
+            "id": "68b50ecb-e6aa-44d4-8111-62b895a7db50",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240626_150313-a-2255-front-2267bc7f-0f5e-40d6-99a2-8ee6979e2b51.jpg",
+                    "beesPercent": 63.27,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-15-10-41-a-2255.55-front-2267bc7f-0f5e-40d6-99a2-8ee6979e2b51.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 461,
+                "cell-worker-honey": 47,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 832,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240626_150313-a-2255-back-2267bc7f-0f5e-40d6-99a2-8ee6979e2b51.jpg",
+                    "beesPercent": 55.07,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-15-10-41-a-2255.55-back-2267bc7f-0f5e-40d6-99a2-8ee6979e2b51.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3276,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 4,
+                "cell-worker-empty": 1146,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 1,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 7,
+            "rfid": "194-bh-1-comb-frame-26",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1715.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 7,
+            "status": "idle",
+            "id": "acdd56fa-e220-46e2-a0de-e28b01ced8ba",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 2150,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240314_190956-a-709-front-b3f51486-14b2-4925-bac3-6fd236fdb8a9.jpg",
+                    "beesPercent": 57.13,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-14-19-18-a-709.82-front-b3f51486-14b2-4925-bac3-6fd236fdb8a9.jpg",
+                "bee-queen": 0,
+                "cell-worker": 2150,
+                "cell-drawnout": 2150,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 722,
+                "cell-worker-honey": 139,
+                "cell-worker-pollen": 43,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 33,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 1,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 1483,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240314_190957-a-709-back-b3f51486-14b2-4925-bac3-6fd236fdb8a9.jpg",
+                    "beesPercent": 42.14,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-14-19-18-a-709.82-back-b3f51486-14b2-4925-bac3-6fd236fdb8a9.jpg",
+                "bee-queen": 0,
+                "cell-worker": 1483,
+                "cell-drawnout": 1477,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 6,
+                "cell-worker-empty": 317,
+                "cell-worker-honey": 153,
+                "cell-worker-pollen": 139,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 48,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 8,
+            "rfid": "194-bh-1-comb-frame-27",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1751.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 8,
+            "status": "idle",
+            "id": "18eb4c26-9172-4eb1-90b4-a7b2550e9f70",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 1484,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240315_095530-a-1072-front-e03ec3d5-7af1-4d57-9211-6f0923adf962.jpg",
+                    "beesPercent": 46.86,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-15-10-04-a-1072.12-front-e03ec3d5-7af1-4d57-9211-6f0923adf962.jpg",
+                "bee-queen": 0,
+                "cell-worker": 1484,
+                "cell-drawnout": 1450,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 34,
+                "cell-worker-empty": 253,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 319,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 38,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 1,
+                "cell-worker-larva_8_to_21": 74
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 709,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240315_095530-a-1072-back-e03ec3d5-7af1-4d57-9211-6f0923adf962.jpg",
+                    "beesPercent": 38.7,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-15-10-04-a-1072.12-back-e03ec3d5-7af1-4d57-9211-6f0923adf962.jpg",
+                "bee-queen": 0,
+                "cell-worker": 709,
+                "cell-drawnout": 688,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 21,
+                "cell-worker-empty": 198,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 117,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 4,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 1,
+                "cell-worker-larva_8_to_21": 21
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 9,
+            "rfid": "194-bh-1-comb-frame-28",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1787.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 9,
+            "status": "idle",
+            "id": "0948e0c7-29c0-4f6b-8983-dbf5c7000f6c",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240625_155907-a-1517-front-18c2f9bd-b4c6-4626-885a-e91db53b7e6d.jpg",
+                    "beesPercent": 48.49,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-14-15-30-a-1517.56-front-18c2f9bd-b4c6-4626-885a-e91db53b7e6d.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3275,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 4,
+                "cell-worker-empty": 1184,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 22,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 81
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10011/20240625_155907-a-1517-back-18c2f9bd-b4c6-4626-885a-e91db53b7e6d.jpg",
+                    "beesPercent": 43.24,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10011/2024-06-14-15-30-a-1517.56-back-18c2f9bd-b4c6-4626-885a-e91db53b7e6d.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 613,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 1177
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 10,
+            "rfid": "194-bh-1-comb-frame-29",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1823.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 10,
+            "status": "idle",
+            "id": "29351d0f-c955-4b29-a473-334e6885f17d",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40130/20240617_110733-a-493-front-5a588118-dab1-4abd-b496-a940e08e7d8c.jpg",
+                    "beesPercent": 45.1,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-40130/2024-06-17-11-15-a-493.15-front-5a588118-dab1-4abd-b496-a940e08e7d8c.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 533,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 130,
+                "cell-worker-larva_2_to_3": 2,
+                "cell-worker-larva_4_to_5": 15,
+                "cell-worker-larva_6_to_7": 219,
+                "cell-worker-larva_8_to_21": 617
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40130/20240617_110733-a-493-back-5a588118-dab1-4abd-b496-a940e08e7d8c.jpg",
+                    "beesPercent": 36.54,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-40130/2024-06-17-11-15-a-493.15-back-5a588118-dab1-4abd-b496-a940e08e7d8c.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 918,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 16,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 157,
+                "cell-worker-larva_2_to_3": 8,
+                "cell-worker-larva_4_to_5": 8,
+                "cell-worker-larva_6_to_7": 82,
+                "cell-worker-larva_8_to_21": 195
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 11,
+            "rfid": "194-bh-1-comb-frame-30",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1859.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 11,
+            "status": "idle",
+            "id": "e00fad12-67dc-4b24-b790-b48a899a3e7e",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 2181,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240314_183342-a-598-front-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                    "beesPercent": 37.29,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-14-18-42-a-598.55-front-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                "bee-queen": 0,
+                "cell-worker": 2181,
+                "cell-drawnout": 2175,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 6,
+                "cell-worker-empty": 457,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 121,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 8,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 2,
+                "cell-worker-larva_4_to_5": 8,
+                "cell-worker-larva_6_to_7": 12,
+                "cell-worker-larva_8_to_21": 380
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 1854,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240314_183342-a-598-back-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                    "beesPercent": 55.45,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-14-18-42-a-598.55-back-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                "bee-queen": 0,
+                "cell-worker": 1854,
+                "cell-drawnout": 1827,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 27,
+                "cell-worker-empty": 307,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 172,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 11,
+                "cell-worker-larva_2_to_3": 38,
+                "cell-worker-larva_4_to_5": 47,
+                "cell-worker-larva_6_to_7": 59,
+                "cell-worker-larva_8_to_21": 220
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 12,
+            "rfid": "194-bh-1-comb-frame-31",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1895.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 12,
+            "status": "idle",
+            "id": "dfd448fc-1bfd-4d6f-bd9c-5396985e5002",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10060/20240612_182254-a-613-front-d9fb6885-3264-42d7-884c-adc82924e2cd.jpg",
+                    "beesPercent": 36.73,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10060/2024-06-12-18-30-a-613.78-front-d9fb6885-3264-42d7-884c-adc82924e2cd.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 398,
+                "cell-worker-honey": 6,
+                "cell-worker-pollen": 427,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 100,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 4,
+                "cell-worker-larva_8_to_21": 533
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10006/20240610_153753-a-783-back-cca2ed4a-e486-40ce-8361-f4a7b70ff590.jpg",
+                    "beesPercent": 37.44,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-10006/2024-05-19-16-56-a-779.65-back-cca2ed4a-e486-40ce-8361-f4a7b70ff590.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 7,
+                "cell-worker-honey": 29,
+                "cell-worker-pollen": 463,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 3,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 1047
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 13,
+            "rfid": "194-bh-1-comb-frame-32",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1931.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 13,
+            "status": "idle",
+            "id": "b80c83b0-496b-4622-851b-6ff1617792e1",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10006/20240610_154926-a-820-front-d8ca04fe-acd0-4e8d-9d0a-9c13c2933a47.jpg",
+                    "beesPercent": 43.67,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-10006/2024-05-19-17-08-a-820.5-front-d8ca04fe-acd0-4e8d-9d0a-9c13c2933a47.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 657,
+                "cell-worker-honey": 2,
+                "cell-worker-pollen": 51,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 5,
+                "cell-worker-larva_8_to_21": 500
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10006/20240610_154926-a-820-back-d8ca04fe-acd0-4e8d-9d0a-9c13c2933a47.jpg",
+                    "beesPercent": 57.61,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-10006/2024-05-19-17-08-a-820.5-back-d8ca04fe-acd0-4e8d-9d0a-9c13c2933a47.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 788,
+                "cell-worker-honey": 102,
+                "cell-worker-pollen": 161,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 6,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 73
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 14,
+            "rfid": "194-bh-1-comb-frame-9",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 1967.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 14,
+            "status": "idle",
+            "id": "32773370-d44b-4c6d-83e8-b7e69bb1d91e",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10058/20240610_153505-a-2453-front-10058-ACHHAAHC.jpg",
+                    "beesPercent": 59.12,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10058/2024-06-10-15-43-a-2453.93-front-10058-ACHHAAHC.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3274,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 5,
+                "cell-worker-empty": 287,
+                "cell-worker-honey": 260,
+                "cell-worker-pollen": 1,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 781,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10058/20240610_153506-a-2453-back-10058-ACHHAAHC.jpg",
+                    "beesPercent": 49,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10058/2024-06-10-15-43-a-2453.93-back-10058-ACHHAAHC.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 2673,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 606,
+                "cell-worker-empty": 610,
+                "cell-worker-honey": 191,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 106,
+                "cell-worker-larva_0_to_1": 297,
+                "cell-worker-larva_2_to_3": 34,
+                "cell-worker-larva_4_to_5": 17,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 15,
+            "rfid": "194-bh-1-comb-frame-33",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2003.48
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 15,
+            "status": "idle",
+            "id": "1497eb83-97c0-415b-b5fa-9431593731b0",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10076/20240610_165324-a-2628-front-10076-ACYAAHNC.jpg",
+                    "beesPercent": 61.48,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10076/2024-06-10-16-49-a-2591.03-front-10076-ACYAAHNC.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 931,
+                "cell-worker-honey": 92,
+                "cell-worker-pollen": 164,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 447,
+                "cell-worker-larva_0_to_1": 6,
+                "cell-worker-larva_2_to_3": 3,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 8
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10076/20240610_165324-a-2628-back-10076-ACYAAHNC.jpg",
+                    "beesPercent": 61.31,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/6/beehome-10076/2024-06-10-16-49-a-2591.03-back-10076-ACYAAHNC.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 1067,
+                "cell-worker-honey": 33,
+                "cell-worker-pollen": 257,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 63,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 20
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 16,
+            "rfid": "3656c2-A3-SP",
+            "type": "static_partition",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2039.48
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 16,
+            "status": "idle",
+            "id": "af69d61d-b13e-46fd-8969-1d22ff9126ef",
+            "last_updated": "2026-08-25T09:17:40.190Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 17,
+            "rfid": "3656c2-A4-DP",
+            "type": "partition",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2164.08
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 17,
+            "status": "idle",
+            "id": "a5dea871-390c-44b7-b87f-be8aed14d4b0",
+            "last_updated": "2026-08-25T09:17:40.190Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 18,
+            "rfid": "3656c2-A4-FD",
+            "type": "feeder",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2200.08
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 18,
+            "status": "idle",
+            "id": "49098292-bcad-4b5b-ad42-95583d0c75f9",
+            "last_updated": "2026-08-25T09:17:40.190Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 19,
+            "rfid": "194-bh-1-comb-frame-34",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2236.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 19,
+            "status": "idle",
+            "id": "7340c904-5fde-4fcf-b12a-c301470d9019",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_124044-a-338-front-40544-XXXXluyc.jpg",
+                    "beesPercent": 63.31,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-00-44-a-333.68-front-40544-XXXXluyc.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 522,
+                "cell-worker-honey": 53,
+                "cell-worker-pollen": 4,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 695,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_124045-a-338-back-40544-XXXXluyc.jpg",
+                    "beesPercent": 36.6,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-00-44-a-333.68-back-40544-XXXXluyc.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 2630,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 649,
+                "cell-worker-empty": 1098,
+                "cell-worker-honey": 1,
+                "cell-worker-pollen": 7,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 20,
+            "rfid": "194-bh-1-comb-frame-35",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2269.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 20,
+            "status": "idle",
+            "id": "fcf97f3a-45e6-4a01-850b-96e6df8bdd24",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_125241-a-378-front-40544-XXXXesr5.jpg",
+                    "beesPercent": 63.9,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-00-56-a-372.74-front-40544-XXXXesr5.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3278,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 1,
+                "cell-worker-empty": 1366,
+                "cell-worker-honey": 49,
+                "cell-worker-pollen": 86,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 27,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_125242-a-378-back-40544-XXXXesr5.jpg",
+                    "beesPercent": 54.9,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-00-56-a-372.74-back-40544-XXXXesr5.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3278,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 1,
+                "cell-worker-empty": 863,
+                "cell-worker-honey": 110,
+                "cell-worker-pollen": 44,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 295,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 21,
+            "rfid": "194-bh-1-comb-frame-47",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2302.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 21,
+            "status": "idle",
+            "id": "bf990980-06e3-4c58-ad15-564e39959c91",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 1221,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240315_103432-a-1181-front-f9fdf0e3-facc-4163-9865-d7c2b38f9d73.jpg",
+                    "beesPercent": 37.38,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-15-10-43-a-1181.7-front-f9fdf0e3-facc-4163-9865-d7c2b38f9d73.jpg",
+                "bee-queen": 0,
+                "cell-worker": 1221,
+                "cell-drawnout": 1172,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 49,
+                "cell-worker-empty": 201,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 38,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 13,
+                "cell-worker-larva_4_to_5": 76,
+                "cell-worker-larva_6_to_7": 172,
+                "cell-worker-larva_8_to_21": 86
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 591,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240315_103433-a-1181-back-f9fdf0e3-facc-4163-9865-d7c2b38f9d73.jpg",
+                    "beesPercent": 53.5,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-15-10-43-a-1181.7-back-f9fdf0e3-facc-4163-9865-d7c2b38f9d73.jpg",
+                "bee-queen": 0,
+                "cell-worker": 591,
+                "cell-drawnout": 572,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 19,
+                "cell-worker-empty": 117,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 42,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 1,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 6,
+                "cell-worker-larva_6_to_7": 32,
+                "cell-worker-larva_8_to_21": 19
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 22,
+            "rfid": "194-bh-1-comb-frame-36",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2335.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 22,
+            "status": "idle",
+            "id": "d81c7d03-a8a6-48e7-b9b9-76b1249fee45",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_130425-a-415-front-40544-XXXXsv6a.jpg",
+                    "beesPercent": 58.66,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-01-08-a-409.56-front-40544-XXXXsv6a.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3277,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 2,
+                "cell-worker-empty": 790,
+                "cell-worker-honey": 22,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 1038,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_130425-a-415-back-40544-XXXXsv6a.jpg",
+                    "beesPercent": 40.21,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-01-08-a-409.56-back-40544-XXXXsv6a.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 844,
+                "cell-worker-honey": 64,
+                "cell-worker-pollen": 0,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 673,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 23,
+            "rfid": "194-bh-1-comb-frame-38",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2368.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 23,
+            "status": "idle",
+            "id": "c06aa11c-74d3-402d-8460-9cb7513235c1",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_132750-a-486-front-40544-AANANCNX.jpg",
+                    "beesPercent": 51.96,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-01-30-a-482.83-front-40544-AANANCNX.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3278,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 1,
+                "cell-worker-empty": 161,
+                "cell-worker-honey": 1,
+                "cell-worker-pollen": 112,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 4,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 2,
+                "cell-worker-larva_8_to_21": 1645
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_132750-a-486-back-40544-AANANCNX.jpg",
+                    "beesPercent": 63.27,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-29-13-36-a-486.85-back-40544-AANANCNX.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3274,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 5,
+                "cell-worker-empty": 535,
+                "cell-worker-honey": 27,
+                "cell-worker-pollen": 21,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 9,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 22,
+                "cell-worker-larva_4_to_5": 222,
+                "cell-worker-larva_6_to_7": 456,
+                "cell-worker-larva_8_to_21": 658
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 24,
+            "rfid": "194-bh-1-comb-frame-39",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2401.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 24,
+            "status": "idle",
+            "id": "e63051e8-ffaa-4065-adbd-828ada763045",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_133957-a-527-front-80d0f690-b5b9-497f-9084-e7e2dce2fe62.jpg",
+                    "beesPercent": 41.64,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-01-42-a-526.36-front-80d0f690-b5b9-497f-9084-e7e2dce2fe62.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3275,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 4,
+                "cell-worker-empty": 636,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 315,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 3,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 4,
+                "cell-worker-larva_4_to_5": 20,
+                "cell-worker-larva_6_to_7": 47,
+                "cell-worker-larva_8_to_21": 380
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3280,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_133957-a-527-back-80d0f690-b5b9-497f-9084-e7e2dce2fe62.jpg",
+                    "beesPercent": 61.02,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-01-42-a-526.36-back-80d0f690-b5b9-497f-9084-e7e2dce2fe62.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3280,
+                "cell-drawnout": 3280,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 0,
+                "cell-worker-empty": 1138,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 58,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 9,
+                "cell-worker-larva_2_to_3": 63,
+                "cell-worker-larva_4_to_5": 25,
+                "cell-worker-larva_6_to_7": 13,
+                "cell-worker-larva_8_to_21": 57
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 25,
+            "rfid": "194-bh-1-comb-frame-40",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2467.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 25,
+            "status": "idle",
+            "id": "011fb13c-4bd1-4e95-8720-86286e07bc03",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_135140-a-564-front-b2312eff-6cc5-4b6b-aabd-d67e609e7bc8.jpg",
+                    "beesPercent": 36.56,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-02-32-a-563.91-front-b2312eff-6cc5-4b6b-aabd-d67e609e7bc8.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3274,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 5,
+                "cell-worker-empty": 711,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 362,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 10,
+                "cell-worker-larva_6_to_7": 86,
+                "cell-worker-larva_8_to_21": 134
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_135140-a-564-back-b2312eff-6cc5-4b6b-aabd-d67e609e7bc8.jpg",
+                    "beesPercent": 50.8,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-02-32-a-563.91-back-b2312eff-6cc5-4b6b-aabd-d67e609e7bc8.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3274,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 5,
+                "cell-worker-empty": 535,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 146,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 5,
+                "cell-worker-larva_6_to_7": 83,
+                "cell-worker-larva_8_to_21": 633
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 26,
+            "rfid": "3656c2-A4-CF-08",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2500.08
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 26,
+            "status": "idle",
+            "id": "6898021d-b46f-439d-8965-06751e8ef92a",
+            "last_updated": "2026-08-25T09:28:12.720Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 27,
+            "rfid": "3656c2-A4-CF-09",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2533.08
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 27,
+            "status": "idle",
+            "id": "a32f32de-cbe5-48c3-b65d-6bbef4404844",
+            "last_updated": "2026-08-25T09:28:12.720Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 28,
+            "rfid": "194-bh-1-comb-frame-48",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2566.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 28,
+            "status": "idle",
+            "id": "4e5cbec5-5923-40fd-a857-ea06568ff39c",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 1431,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240315_132205-a-1755-front-3648e4e2-3fc4-4e8f-a572-7162960abdb7.jpg",
+                    "beesPercent": 63.61,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-15-13-30-a-1755.29-front-3648e4e2-3fc4-4e8f-a572-7162960abdb7.jpg",
+                "bee-queen": 0,
+                "cell-worker": 1431,
+                "cell-drawnout": 1420,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 11,
+                "cell-worker-empty": 262,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 53,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 2,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 1,
+                "cell-worker-larva_6_to_7": 16,
+                "cell-worker-larva_8_to_21": 410
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 888,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240315_132205-a-1755-back-3648e4e2-3fc4-4e8f-a572-7162960abdb7.jpg",
+                    "beesPercent": 61.8,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-15-13-30-a-1755.29-back-3648e4e2-3fc4-4e8f-a572-7162960abdb7.jpg",
+                "bee-queen": 0,
+                "cell-worker": 888,
+                "cell-drawnout": 887,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 1,
+                "cell-worker-empty": 171,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 13,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 1,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 9,
+                "cell-worker-larva_4_to_5": 9,
+                "cell-worker-larva_6_to_7": 15,
+                "cell-worker-larva_8_to_21": 151
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 29,
+            "rfid": "194-bh-1-comb-frame-37",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2599.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 29,
+            "status": "idle",
+            "id": "9ec3ca95-f96e-4c82-9816-98918e2d53ba",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 2181,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240314_183342-a-598-front-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                    "beesPercent": 45.42,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-14-18-42-a-598.55-front-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                "bee-queen": 0,
+                "cell-worker": 2181,
+                "cell-drawnout": 2175,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 6,
+                "cell-worker-empty": 468,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 121,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 8,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 1,
+                "cell-worker-larva_4_to_5": 5,
+                "cell-worker-larva_6_to_7": 8,
+                "cell-worker-larva_8_to_21": 253
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 1854,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/3/beehome-40418/20240314_183342-a-598-back-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                    "beesPercent": 40.85,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/3/beehome-40418/2024-03-14-18-42-a-598.55-back-66eeb1e5-12a9-49c3-a550-0b2b57948ebb.jpg",
+                "bee-queen": 0,
+                "cell-worker": 1854,
+                "cell-drawnout": 1827,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 27,
+                "cell-worker-empty": 425,
+                "cell-worker-honey": 0,
+                "cell-worker-pollen": 152,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 0,
+                "cell-worker-larva_0_to_1": 10,
+                "cell-worker-larva_2_to_3": 34,
+                "cell-worker-larva_4_to_5": 41,
+                "cell-worker-larva_6_to_7": 52,
+                "cell-worker-larva_8_to_21": 192
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 30,
+            "rfid": "194-bh-1-comb-frame-43",
+            "type": "comb_frame",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2632.08
+                }
+            },
+            "side_a": {
+                "beeCount": null
+            },
+            "side_b": {
+                "beeCount": null
+            },
+            "slotId": 30,
+            "status": "idle",
+            "id": "6989a563-d71c-4b8c-ac7b-07ad018757ed",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_142651-a-677-front-12d654e1-00d8-4582-a992-6b3cacea8d63.jpg",
+                    "beesPercent": 50.06,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-03-07-a-676.81-front-12d654e1-00d8-4582-a992-6b3cacea8d63.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3272,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 7,
+                "cell-worker-empty": 557,
+                "cell-worker-honey": 115,
+                "cell-worker-pollen": 59,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 806,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_side_b": {
+                "bee": 0,
+                "cell": 3279,
+                "beeCount": {
+                    "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40544/20240529_142651-a-677-back-12d654e1-00d8-4582-a992-6b3cacea8d63.jpg",
+                    "beesPercent": 63.24,
+                    "scanTimestamp": 1785921301396
+                },
+                "fileName": "https://beewise-cv-scan-prod.s3.eu-west-1.amazonaws.com/comb_metrics/img_4_UI/2024/5/beehome-40544/2024-05-18-03-07-a-676.81-back-12d654e1-00d8-4582-a992-6b3cacea8d63.jpg",
+                "bee-queen": 0,
+                "cell-worker": 3279,
+                "cell-drawnout": 3277,
+                "scanTimestamp": 1785921301396,
+                "cell-foundation": 2,
+                "cell-worker-empty": 544,
+                "cell-worker-honey": 11,
+                "cell-worker-pollen": 153,
+                "queen_cell-1_to_16": 0,
+                "cell-worker-caped_honey": 780,
+                "cell-worker-larva_0_to_1": 0,
+                "cell-worker-larva_2_to_3": 0,
+                "cell-worker-larva_4_to_5": 0,
+                "cell-worker-larva_6_to_7": 0,
+                "cell-worker-larva_8_to_21": 0
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 31,
+            "rfid": "3656c2-A4-SP",
+            "type": "static_partition",
+            "place": {
+                "station": "a",
+                "position": {
+                    "x": 2668.08
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 31,
+            "status": "idle",
+            "id": "2cfde67e-315e-4cb9-9742-7a2b1ad8a84c",
+            "last_updated": "2026-08-25T09:17:40.190Z",
+            "previous_side_a": {},
+            "previous_side_b": {},
+            "previous_update_date": null,
+            "bhome_id": 194
+        },
+        {
+            "slot": 32,
+            "rfid": "194-bh-1-static-partition-6",
+            "type": "static_partition",
+            "place": {
+                "station": "b",
+                "position": {
+                    "x": 751.8
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 32,
+            "status": "idle",
+            "id": "24e44b3d-3828-4d11-aea8-548d6d8a2b04",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 41.14,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_side_b": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 62.81,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 33,
+            "rfid": "194-bh-1-static-partition-7",
+            "type": "static_partition",
+            "place": {
+                "station": "b",
+                "position": {
+                    "x": 1399.8
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 33,
+            "status": "idle",
+            "id": "dff91216-2d7d-477c-be2f-80fdf2005868",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 44.42,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_side_b": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 47.36,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 34,
+            "rfid": "194-bh-1-static-partition-8",
+            "type": "static_partition",
+            "place": {
+                "station": "b",
+                "position": {
+                    "x": 2047.8
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 34,
+            "status": "idle",
+            "id": "92c5561b-1385-4e93-ba9c-062c43d6a7fb",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 49.75,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_side_b": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 44.96,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        },
+        {
+            "slot": 35,
+            "rfid": "194-bh-1-static-partition-9",
+            "type": "static_partition",
+            "place": {
+                "station": "b",
+                "position": {
+                    "x": 2676.4
+                }
+            },
+            "side_a": {},
+            "side_b": {},
+            "slotId": 35,
+            "status": "idle",
+            "id": "d59dd1a0-4ab5-486d-816f-976eb3ac8c63",
+            "last_updated": "2026-08-24T09:15:01.000Z",
+            "previous_side_a": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 60.77,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_side_b": {
+                "beeCount": {
+                    "fileName": null,
+                    "beesPercent": 39.07,
+                    "scanTimestamp": 1785921301396
+                },
+                "scanTimestamp": 1785921301396
+            },
+            "previous_update_date": "2026-08-05T09:15:01.000Z",
+            "bhome_id": 194
+        }
+    ],
+    "actions": []
+}

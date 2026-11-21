@@ -54,12 +54,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/10/beehome-10086/20241009_131920-a-2514-front-10086-ACHYNYCX.jpg",
           "beesPercent": 62.3,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 10,
         "cell-worker-honey": 127,
@@ -79,12 +79,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/10/beehome-10086/20241009_131921-a-2514-back-10086-ACHYNYCX.jpg",
           "beesPercent": 42.83,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 931,
         "cell-worker-honey": 151,
@@ -118,12 +118,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/10/beehome-10074/20241015_103901-a-648-front-10074-ACYAAXCY.jpg",
           "beesPercent": 56.83,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 4,
         "cell-worker-honey": 38,
@@ -143,12 +143,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/10/beehome-10074/20241015_103901-a-648-back-10074-ACYAAXCY.jpg",
           "beesPercent": 75.37,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1014,
         "cell-worker-honey": 4,
@@ -310,12 +310,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40343/20240709_110723-a-1317-front-40343-ACXNYHHX.jpg",
           "beesPercent": 54.72,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1202,
         "cell-worker-honey": 1129,
@@ -335,12 +335,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40343/20240709_110723-a-1317-back-40343-ACXNYHHX.jpg",
           "beesPercent": 80.43,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1752,
         "cell-worker-honey": 423,
@@ -374,12 +374,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-10074/20240519_154202-a-893-front-10074-ACYAAXAY.jpg",
           "beesPercent": 79.17,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2164,
         "cell-worker-honey": 1,
@@ -399,12 +399,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-10074/20240519_154202-a-893-back-10074-ACYAAXAY.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1409,
         "cell-worker-honey": 165,
@@ -438,12 +438,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-10074/20240703_143821-a-862-front-10074-ACYAAXAX.jpg",
           "beesPercent": 40.95,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1225,
         "cell-worker-honey": 37,
@@ -463,12 +463,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-10074/20240703_143822-a-862-back-10074-ACYAAXAX.jpg",
           "beesPercent": 85.97,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 898,
         "cell-worker-honey": 89,
@@ -559,12 +559,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40233/20240617_084701-a-457-front-884d2582-4bd0-4fb9-8db8-54d9207fdfe0.jpg",
           "beesPercent": 45.2,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 71,
         "cell-worker-honey": 0,
@@ -584,12 +584,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40233/20240617_084702-a-457-back-884d2582-4bd0-4fb9-8db8-54d9207fdfe0.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 490,
         "cell-worker-honey": 1,
@@ -623,12 +623,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40233/20240623_175327-a-1580-front-41b1d39a-7f3a-4105-85e4-f1465483befe.jpg",
           "beesPercent": 51.86,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1,
         "cell-worker-honey": 0,
@@ -648,12 +648,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40233/20240623_175327-a-1580-back-41b1d39a-7f3a-4105-85e4-f1465483befe.jpg",
           "beesPercent": 71.17,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2,
         "cell-worker-honey": 0,
@@ -815,12 +815,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-40240/20240806_154500-a-414-front-40240-ACXAHCYC.jpg",
           "beesPercent": 60.55,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 587,
         "cell-worker-honey": 9,
@@ -840,12 +840,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-40240/20240806_154501-a-414-back-40240-ACXAHCYC.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 641,
         "cell-worker-honey": 265,
@@ -880,12 +880,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40314/20240714_111146-a-608-front-40314-AYAYAHYC.jpg",
           "beesPercent": 87.42,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3074,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 205,
         "cell-worker-empty": 1947,
         "cell-worker-honey": 723,
@@ -905,12 +905,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40314/20240714_111147-a-608-back-40314-AYAYAHYC.jpg",
           "beesPercent": 0,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 930,
         "cell-worker-honey": 355,
@@ -944,12 +944,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40586/20240531_145102-a-2671-front-b51b2f26-8bb7-4f05-b17d-5356e9e8c95f.jpg",
           "beesPercent": 47.16,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3278,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 1,
         "cell-worker-empty": 659,
         "cell-worker-honey": 9,
@@ -969,12 +969,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40586/20240531_145103-a-2671-back-b51b2f26-8bb7-4f05-b17d-5356e9e8c95f.jpg",
           "beesPercent": 79.6,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3279,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 462,
         "cell-worker-honey": 195,
@@ -1065,12 +1065,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40016/20240718_121822-b-452-front-40016-AHNXCAXC.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 71,
         "cell-worker-honey": 26,
@@ -1090,12 +1090,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40016/20240718_121823-b-452-back-40016-AHNXCAXC.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3276,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 3,
         "cell-worker-empty": 398,
         "cell-worker-honey": 12,
@@ -1132,12 +1132,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40016/20240718_115200-b-372-front-40016-ACXYAHCY.jpg",
           "beesPercent": 70.54,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 59,
         "cell-worker-honey": 33,
@@ -1157,12 +1157,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40016/20240718_115200-b-372-back-40016-ACXYAHCY.jpg",
           "beesPercent": 70.95,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 820,
         "cell-worker-honey": 74,
@@ -1199,12 +1199,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40040/20240625_075120-b-467-front-40040-AHNXANXX.jpg",
           "beesPercent": 72.56,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 459,
         "cell-worker-honey": 75,
@@ -1224,12 +1224,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40040/20240625_075121-b-467-back-40040-AHNXANXX.jpg",
           "beesPercent": 97.04,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 308,
         "cell-worker-honey": 20,
@@ -1266,12 +1266,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40040/20240625_072457-b-393-front-40040-ACAAYYYN.jpg",
           "beesPercent": 55.3,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 5,
         "cell-worker-honey": 53,
@@ -1291,12 +1291,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40040/20240625_072458-b-393-back-40040-ACAAYYYN.jpg",
           "beesPercent": 58.74,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 3,
         "cell-worker-honey": 71,
@@ -1333,12 +1333,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40158/20240714_172407-b-389-front-4e238b23-25e6-4810-83c6-0c3482234491.jpg",
           "beesPercent": 96.34,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3279,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1,
         "cell-worker-honey": 11,
@@ -1358,12 +1358,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40158/20240714_172407-b-389-back-4e238b23-25e6-4810-83c6-0c3482234491.jpg",
           "beesPercent": 95.91,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1918,
         "cell-worker-honey": 14,
@@ -1400,12 +1400,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240714_174044-b-2666-front-40042-AHXNCHCC.jpg",
           "beesPercent": 27.91,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 56,
         "cell-worker-honey": 75,
@@ -1425,12 +1425,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240714_174045-b-2666-back-40042-AHXNCHCC.jpg",
           "beesPercent": 90.41,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1123,
         "cell-worker-honey": 225,
@@ -1467,12 +1467,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40040/20240717_095130-b-2147-front-40040-AHXXACXA.jpg",
           "beesPercent": 0,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 546,
         "cell-worker-honey": 209,
@@ -1492,12 +1492,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40040/20240717_095130-b-2147-back-40040-AHXXACXA.jpg",
           "beesPercent": 63.52,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 590,
         "cell-worker-honey": 134,
@@ -1591,12 +1591,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40131/20240712_110540-b-1584-front-40131-AHHXYNHC.jpg",
           "beesPercent": 80.58,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 3,
         "cell-worker-honey": 3,
@@ -1616,12 +1616,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40131/20240712_110540-b-1584-back-40131-AHHXYNHC.jpg",
           "beesPercent": 96.66,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 879,
         "cell-worker-honey": 4,
@@ -1658,12 +1658,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40131/20240712_095234-b-1399-front-40131-AHHXYNHX.jpg",
           "beesPercent": 38.65,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 2721,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 558,
         "cell-worker-empty": 1631,
         "cell-worker-honey": 9,
@@ -1683,12 +1683,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40131/20240712_095234-b-1399-back-40131-AHHXYNHX.jpg",
           "beesPercent": 90.19,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 404,
         "cell-worker-honey": 23,
@@ -1725,12 +1725,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40131/20240711_143512-b-391-front-40131-AAHAXYHC.jpg",
           "beesPercent": 33.11,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3274,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 5,
         "cell-worker-empty": 932,
         "cell-worker-honey": 7,
@@ -1750,12 +1750,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40131/20240711_143512-b-391-back-40131-AAHAXYHC.jpg",
           "beesPercent": 92.28,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3277,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 2,
         "cell-worker-empty": 629,
         "cell-worker-honey": 13,
@@ -1792,12 +1792,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40016/20240722_110908-b-1945-front-40016-AHNXXHHA.jpg",
           "beesPercent": 57.25,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 808,
         "cell-worker-honey": 0,
@@ -1817,12 +1817,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40016/20240722_110908-b-1945-back-40016-AHNXXHHA.jpg",
           "beesPercent": 71.52,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1141,
         "cell-worker-honey": 0,
@@ -1859,12 +1859,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40158/20240715_125814-b-1625-front-40158-AAXNHANC.jpg",
           "beesPercent": 75.03,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1112,
         "cell-worker-honey": 50,
@@ -1884,12 +1884,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40158/20240715_125814-b-1625-back-40158-AAXNHANC.jpg",
           "beesPercent": 96.92,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2187,
         "cell-worker-honey": 15,
@@ -1926,12 +1926,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40660/20240920_153744-b-340-front-dccd78e5-ecf2-4bb2-8e21-a4808e816dfd.jpg",
           "beesPercent": 86.81,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1837,
         "cell-worker-honey": 240,
@@ -1951,12 +1951,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40660/20240920_153744-b-340-back-dccd78e5-ecf2-4bb2-8e21-a4808e816dfd.jpg",
           "beesPercent": 94.9,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1921,
         "cell-worker-honey": 149,
@@ -1993,12 +1993,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40588/20240527_113558-b-1293-front-66b879fa-a287-49cc-9f82-b01bbca1d783.jpg",
           "beesPercent": 29.47,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3262,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 17,
         "cell-worker-empty": 1463,
         "cell-worker-honey": 595,
@@ -2018,12 +2018,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/5/beehome-40588/20240527_113558-b-1293-back-66b879fa-a287-49cc-9f82-b01bbca1d783.jpg",
           "beesPercent": 82.81,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1268,
         "cell-worker-honey": 12,
@@ -2117,12 +2117,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40317/20240715_132246-b-424-front-b5e5b79a-6b10-4bac-82d8-b628ab104e04.jpg",
           "beesPercent": 93.35,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 736,
         "cell-worker-honey": 0,
@@ -2142,12 +2142,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40317/20240715_132246-b-424-back-b5e5b79a-6b10-4bac-82d8-b628ab104e04.jpg",
           "beesPercent": 95.51,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2561,
         "cell-worker-honey": 6,
@@ -2181,12 +2181,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40233/20240626_074855-b-342-front-85291a40-49e2-42da-b9cb-b8b1c71fc400.jpg",
           "beesPercent": 44.62,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2,
         "cell-worker-honey": 85,
@@ -2206,12 +2206,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40233/20240626_074855-b-342-back-85291a40-49e2-42da-b9cb-b8b1c71fc400.jpg",
           "beesPercent": 94.59,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 3,
         "cell-worker-honey": 15,
@@ -2373,12 +2373,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40040/20240904_155555-b-575-front-40040-ACAAHYHA.jpg",
           "beesPercent": 6.67,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3279,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1,
         "cell-worker-honey": 102,
@@ -2398,12 +2398,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40040/20240904_155555-b-575-back-40040-ACAAHYHA.jpg",
           "beesPercent": 70.92,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1492,
         "cell-worker-honey": 167,
@@ -2437,12 +2437,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40040/20240717_080822-b-1064-front-40040-AHNAYAAN.jpg",
           "beesPercent": 36.71,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1353,
         "cell-worker-honey": 424,
@@ -2462,12 +2462,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40040/20240717_080822-b-1064-back-40040-AHNAYAAN.jpg",
           "beesPercent": 60.63,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 305,
         "cell-worker-honey": 166,
@@ -2501,12 +2501,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-40136/20240814_090717-b-613-front-145571b9-c147-4a35-8ed8-a375ed8c0d74.jpg",
           "beesPercent": 52.95,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1434,
         "cell-worker-honey": 55,
@@ -2526,12 +2526,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-40136/20240814_090717-b-613-back-145571b9-c147-4a35-8ed8-a375ed8c0d74.jpg",
           "beesPercent": 91.13,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2094,
         "cell-worker-honey": 48,
@@ -2620,12 +2620,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40097/20240715_094249-b-1959-front-40097-XXXXrg38.jpg",
           "beesPercent": 83.76,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 963,
         "cell-worker-honey": 0,
@@ -2645,12 +2645,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40097/20240715_094249-b-1959-back-40097-XXXXrg38.jpg",
           "beesPercent": 98.02,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1985,
         "cell-worker-honey": 0,
@@ -2684,12 +2684,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40097/20240715_142529-b-2480-front-40097-ACXHHAHY.jpg",
           "beesPercent": 92.23,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 871,
         "cell-worker-honey": 2,
@@ -2709,12 +2709,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40097/20240715_142529-b-2480-back-40097-ACXHHAHY.jpg",
           "beesPercent": 89.11,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 3142,
         "cell-worker-honey": 0,
@@ -2748,12 +2748,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40040/20240910_121006-b-386-front-40040-AHXNHAYX.jpg",
           "beesPercent": 41.01,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1151,
         "cell-worker-honey": 8,
@@ -2773,12 +2773,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40040/20240910_121006-b-386-back-40040-AHXNHAYX.jpg",
           "beesPercent": 73,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2591,
         "cell-worker-honey": 12,
@@ -2812,12 +2812,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40040/20240625_075120-b-467-front-40040-AHNXANXX.jpg",
           "beesPercent": 72.56,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 459,
         "cell-worker-honey": 75,
@@ -2837,12 +2837,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-40040/20240625_075121-b-467-back-40040-AHNXANXX.jpg",
           "beesPercent": 97.04,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 308,
         "cell-worker-honey": 20,
@@ -2876,12 +2876,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40306/20240729_141356-b-945-front-40306-AAXCCYAY.jpg",
           "beesPercent": 92.12,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1111,
         "cell-worker-honey": 44,
@@ -2901,12 +2901,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40306/20240729_141356-b-945-back-40306-AAXCCYAY.jpg",
           "beesPercent": 98.01,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2670,
         "cell-worker-honey": 0,
@@ -2940,12 +2940,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40115/20240910_134812-b-1024-front-40115-AHHMMHCA.jpg",
           "beesPercent": 46.58,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1312,
         "cell-worker-honey": 2,
@@ -2965,12 +2965,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40115/20240910_134812-b-1024-back-40115-AHHMMHCA.jpg",
           "beesPercent": 74.68,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2462,
         "cell-worker-honey": 4,
@@ -3004,12 +3004,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40115/20240909_134422-b-2667-front-40115-AAYXHHYX.jpg",
           "beesPercent": 33.95,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1461,
         "cell-worker-honey": 381,
@@ -3029,12 +3029,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/9/beehome-40115/20240909_134423-b-2667-back-40115-AAYXHHYX.jpg",
           "beesPercent": 97,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3279,
         "cell-drawnout": 3248,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 31,
         "cell-worker-empty": 2316,
         "cell-worker-honey": 20,
@@ -3120,12 +3120,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40311/20240716_172025-a-1054-front-40311-XXXXvz9b.jpg",
           "beesPercent": 76.52,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1649,
         "cell-worker-honey": 113,
@@ -3145,12 +3145,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40311/20240716_172025-a-1054-back-40311-XXXXvz9b.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1950,
         "cell-worker-honey": 13,
@@ -3184,12 +3184,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40317/20240714_161202-a-1428-front-40317-ACAHXNWH.jpg",
           "beesPercent": 86.93,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2535,
         "cell-worker-honey": 3,
@@ -3209,12 +3209,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40317/20240714_161202-a-1428-back-40317-ACAHXNWH.jpg",
           "beesPercent": 0,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 575,
         "cell-worker-honey": 0,
@@ -3248,12 +3248,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40158/20240714_115125-a-1505-front-40158-AAXAHHYA.jpg",
           "beesPercent": 70.65,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1845,
         "cell-worker-honey": 3,
@@ -3273,12 +3273,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40158/20240714_115125-a-1505-back-40158-AAXAHHYA.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 3111,
         "cell-worker-honey": 1,
@@ -3313,12 +3313,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40048/20240711_112524-a-909-front-ba35b95e-3b75-44da-9189-9555232c271f.jpg",
           "beesPercent": 50.2,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3273,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 6,
         "cell-worker-empty": 1515,
         "cell-worker-honey": 1,
@@ -3338,12 +3338,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40048/20240711_112524-a-909-back-ba35b95e-3b75-44da-9189-9555232c271f.jpg",
           "beesPercent": 81.96,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3217,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 62,
         "cell-worker-empty": 1731,
         "cell-worker-honey": 1,
@@ -3377,12 +3377,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40314/20240714_123804-a-1058-front-40314-XXXXeqno.jpg",
           "beesPercent": 87.64,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2049,
         "cell-worker-honey": 11,
@@ -3402,12 +3402,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40314/20240714_123804-a-1058-back-40314-XXXXeqno.jpg",
           "beesPercent": 0,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1938,
         "cell-worker-honey": 2,
@@ -3442,12 +3442,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-40240/20240806_145415-a-262-front-40240-ACYNNYXH.jpg",
           "beesPercent": 51.58,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 830,
         "cell-worker-honey": 795,
@@ -3467,12 +3467,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-40240/20240806_145415-a-262-back-40240-ACYNNYXH.jpg",
           "beesPercent": 73.55,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3260,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 19,
         "cell-worker-empty": 1536,
         "cell-worker-honey": 156,
@@ -3507,12 +3507,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40317/20240714_152111-a-1128-front-40317-ACAAHYAH.jpg",
           "beesPercent": 35.23,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 2291,
         "cell-worker-honey": 3,
@@ -3532,12 +3532,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40317/20240714_152112-a-1128-back-40317-ACAAHYAH.jpg",
           "beesPercent": 100,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 2200,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1414,
         "cell-worker-honey": 185,
@@ -3570,17 +3570,17 @@
         "beeCount": {
           "fileName": null,
           "beesPercent": 59,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
-        "scanTimestamp": 1777629600000
+        "scanTimestamp": 1788540307000
       },
       "side_b": {
         "beeCount": {
           "fileName": null,
           "beesPercent": 18,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
-        "scanTimestamp": 1777629600000
+        "scanTimestamp": 1788540307000
       },
       "slotId": 104,
       "status": "idle",
@@ -3640,12 +3640,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240711_130330-a-1534-front-40042-AHAHXANY.jpg",
           "beesPercent": 71.35,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1162,
         "cell-worker-honey": 0,
@@ -3665,12 +3665,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240711_130331-a-1534-back-40042-AHAHXANY.jpg",
           "beesPercent": 62.39,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 116,
         "cell-worker-honey": 0,
@@ -3704,12 +3704,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240710_164229-a-389-front-40042-AHXNAACY.jpg",
           "beesPercent": 82.63,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 771,
         "cell-worker-honey": 0,
@@ -3729,12 +3729,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240710_164229-a-389-back-40042-AHXNAACY.jpg",
           "beesPercent": 0,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1030,
         "cell-worker-honey": 0,
@@ -3896,12 +3896,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240711_141432-a-1956-front-40042-AHXNCHYN.jpg",
           "beesPercent": 80.45,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1098,
         "cell-worker-honey": 1,
@@ -3921,12 +3921,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/7/beehome-40042/20240711_141432-a-1956-back-40042-AHXNCHYN.jpg",
           "beesPercent": 0,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1943,
         "cell-worker-honey": 1,
@@ -3960,12 +3960,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-10234/20240808_150242-a-1472-front-10234-ACCACAXA.jpg",
           "beesPercent": 61.44,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1310,
         "cell-worker-honey": 216,
@@ -3985,12 +3985,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/8/beehome-10234/20240808_150242-a-1472-back-10234-ACCACAXA.jpg",
           "beesPercent": 61.41,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1440,
         "cell-worker-honey": 376,
@@ -4024,12 +4024,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10119/20240625_161940-a-444-front-10119-AHCCANXY.jpg",
           "beesPercent": 71.64,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1669,
         "cell-worker-honey": 319,
@@ -4049,12 +4049,12 @@
         "beeCount": {
           "fileName": "https://beewise-cv-bee-count-prod.s3.eu-west-1.amazonaws.com/raw/2024/6/beehome-10119/20240625_161941-a-444-back-10119-AHCCANXY.jpg",
           "beesPercent": 62.37,
-          "scanTimestamp": 1777629600000
+          "scanTimestamp": 1788540307000
         },
         "bee-queen": 0,
         "cell-worker": 3280,
         "cell-drawnout": 3280,
-        "scanTimestamp": 1777629600000,
+        "scanTimestamp": 1788540307000,
         "cell-foundation": 0,
         "cell-worker-empty": 1822,
         "cell-worker-honey": 141,
