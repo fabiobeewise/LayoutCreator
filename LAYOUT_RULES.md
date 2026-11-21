@@ -37,7 +37,7 @@ This document currently contains:
 - The config can change when features are updated, so every config file must be identified by the Bhome it came from and the date it was downloaded. `Confirmed`
 - Naming convention in this project: `bhome_<bhome_id>_config_<YYYY-MM-DD_HH-MM-SS>.json`. `Confirmed`
 - Any config value quoted in this rulebook must name its source file, because a value is only valid for that Bhome at that download date. `Confirmed`
-- Current config source in this project: [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json) (Bhome `100`, downloaded `2026-07-17`). `Observed`
+- Current config source in this project: [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json) (Bhome `100`, downloaded `2026-07-17`). `Observed`
 - Older config values recorded here were taken from a `bhome_config.json` that is no longer in the project. Where the Bhome 100 config disagrees, the Bhome 100 values are recorded as the current observed values and the difference is noted. `Observed`
 
 ### Bhome
@@ -368,7 +368,7 @@ The meanings below are based on user-confirmed scan logic unless marked otherwis
   - within `beecount_data_validity_days` `Observed in config`
 - Valid scan data:
   - within `scan_data_validity_days` `Observed in config`
-- Current defaults in [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json) for Auto Condense:
+- Current defaults in [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json) for Auto Condense:
   - `beecount_data_validity_days = 3`
   - `scan_data_validity_days = 3` `Observed`
 
@@ -434,7 +434,7 @@ The meanings below are based on user-confirmed scan logic unless marked otherwis
 
 ### Bhome Config Rules
 
-Observed in [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json) (Bhome `100`, `2026-07-17`). These are the values for this Bhome on this date; another Bhome may differ. `Observed`
+Observed in [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json) (Bhome `100`, `2026-07-17`). These are the values for this Bhome on this date; another Bhome may differ. `Observed`
 
 - `thresholds.broodFrameThreshold = 25`
 - `thresholds.honeyFrameThreshold = 25`
@@ -784,12 +784,12 @@ Known action under definition:
 ### Split Action
 
 - The split action is also referred to by initiator message `autoSplitHive`. `Confirmed`
-- Split decisions use values from [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json), especially `activity_manager.auto_frames_split_policy`. `Confirmed`
+- Split decisions use values from [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json), especially `activity_manager.auto_frames_split_policy`. `Confirmed`
 - Split evaluation uses all frames or edge-scan-derived data according to `activity_manager.auto_scan_policy.auto_scan_type`. `Confirmed`
 
 #### Current Split Config Values
 
-From [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json):
+From [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json):
 
 - `activity_manager.auto_frames_split_policy.in_hive_populated_frames = 7`
 - `activity_manager.auto_frames_split_policy.scan_validity_days = 2`
@@ -859,7 +859,7 @@ From [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout
 - A bee frame is evaluated at the frame level using both sides of the frame. `Confirmed`
 - The frame bee percentage is the average of `side_a.beeCount.beesPercent` and `side_b.beeCount.beesPercent`. `Confirmed`
 - A bee frame is a frame where that averaged bee percentage is greater than or equal to `beePopulationThreshold`. `Confirmed`
-- The threshold source is [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json) -> `thresholds.beePopulationThreshold`. `Confirmed`
+- The threshold source is [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json) -> `thresholds.beePopulationThreshold`. `Confirmed`
 - Current configured value: `15`. `Confirmed from config`
 
 #### Hive Strength By Number Of Bee Frames
@@ -887,7 +887,7 @@ From [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout
 - Brood cells for this percentage are the open-brood buckets plus capped brood: `cell-worker-larva_0_to_1`, `_2_to_3`, `_4_to_5`, `_6_to_7` and `cell-worker-larva_8_to_21`, summed over both sides. `Confirmed from layout 3884-b matching backend brood-frame counts`
 - Practical content bar for building test layouts: at the usual `cell-drawnout = 3280` per side, the denominator is `6560`, so a frame needs `>= 1640` brood cells across both sides to count as a brood frame at `broodFrameThreshold = 25`. `Confirmed`
 - Capped brood alone can satisfy this bar, which is how a `QL` hive can still hold several brood frames. `Confirmed from layout 3884-b`
-- The threshold source is [`bhome_100_config_2026-07-17_14-01-38.json`](/Users/fabio/Documents/Layout_Builder/bhome_100_config_2026-07-17_14-01-38.json) -> `thresholds.broodFrameThreshold`. `Confirmed`
+- The threshold source is [`bhome_100_config_2026-07-17_14-01-38.json`](bhome_100_config_2026-07-17_14-01-38.json) -> `thresholds.broodFrameThreshold`. `Confirmed`
 - Current configured value: `25`. `Confirmed from config`
 - Brood status is determined from scan data. `Confirmed`
 
